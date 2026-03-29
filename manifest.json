@@ -1,8 +1,8 @@
 {
-  "version_1": "1.3.3",
+  "version_1": "1.3.4",
   "version_2": "1.1.0",
   "download_1": "https://github.com/MYDAS74/SaudappSleepEngine/releases/download/saudapp-sleep-engine-v1/core.enc",
   "download_2": "https://github.com/MYDAS74/SaudappSleepEngine/releases/download/saudapp-sleep-engine-v1/coach.enc",
-  "sha256_1": "b59f9824a5fac0f11259cd876426465e8fe1a40aef4aa883be614375784ee8a8",
+  "sha256_1": "2fd4320db5a343432053078a58a22d52d432605dc062598a1b53fba259529fa6",
   "sha256_2": "f1af38e0e0ba5a0990fe28e4ad923a10d6d533ab923dcb406acd68c4bb19cd83"
 }
